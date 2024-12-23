@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+python-dotenv
+asyncpg
+seaborn
+numpy
